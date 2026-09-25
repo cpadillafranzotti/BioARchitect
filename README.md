@@ -8,7 +8,11 @@
 
 BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app installation needed.
 
-👉 **[Try the live demo](https://cpadillafranzotti.github.io/BioARchitect/)**
+<p align="left">
+  <a href="https://cpadillafranzotti.github.io/BioARchitect/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_TRY_THE_LIVE_DEMO-0053d6?style=for-the-badge&logo=safari&logoColor=white" alt="Try Live Demo">
+  </a>
+</p>
 
 Open it on your phone and tap **View in AR** to see the structure in augmented reality.
 
