@@ -20,19 +20,6 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 - **One-tap examples:** a protein, DNA and a lipid to start exploring right away.
 - **Augmented reality** on Android and iPhone, directly from the browser.
 
-## Changelog
-
-### v2.0
-- Added **PubChem** search for small molecules (lipids, metabolites, drugs), shown in ball-and-stick.
-- New one-tap **examples**: hemoglobin, DNA and cholesterol.
-- Redesigned interface: controls above the viewer, button selectors, AR button inside the viewer.
-- Better mobile experience: the page scrolls while the viewer handles rotation.
-
-### v1.0
-- First public version.
-- Search by **PDB ID** and **AlphaFold** (UniProt accession).
-- Cartoon and tube styles; pLDDT, chain, secondary structure and rainbow coloring.
-
 ## Data sources
 
 Structures from [RCSB PDB](https://www.rcsb.org/), [AlphaFold DB](https://alphafold.ebi.ac.uk/) (CC BY 4.0) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
