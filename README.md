@@ -10,7 +10,7 @@ BioARchitect is a web-based viewer that brings proteins, nucleic acids and small
 
 <p align="left">
   <a href="https://cpadillafranzotti.github.io/BioARchitect/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_TRY_THE_LIVE_DEMO-0053d6?style=for-the-badge&logo=safari&logoColor=white" alt="Try Live Demo">
+    <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-0053d6?style=for-the-badge&logo=augmented-reality&logoColor=white" alt="Try Live Demo">
   </a>
 </p>
 
