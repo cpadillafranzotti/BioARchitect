@@ -24,9 +24,9 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 
 Structures from [RCSB PDB](https://www.rcsb.org/), [AlphaFold DB](https://alphafold.ebi.ac.uk/) (CC BY 4.0) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
-## 📄 Licencia
+## 📄 License
 
-Este proyecto se distribuye bajo los términos de la **Academic Evaluation License**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is distributed under the terms of the **Academic Evaluation License**. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
