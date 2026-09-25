@@ -24,6 +24,10 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 
 Structures from [RCSB PDB](https://www.rcsb.org/), [AlphaFold DB](https://alphafold.ebi.ac.uk/) (CC BY 4.0) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 
+## 📄 Licencia
+
+Este proyecto se distribuye bajo los términos de la **Academic Evaluation License**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 ## Author
 
 Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · © 2026
