@@ -17,7 +17,7 @@ BioARchitect is a web-based viewer that brings proteins, nucleic acids and small
 Open it on your phone and tap **View in AR** to see the structure in augmented reality.
 
 <p align="center">
-  <img src="bioarchitect-preview.gif" alt="BioARchitect AR Demo" width="100%">
+  <img src="bioarchitect-preview.gif" alt="BioARchitect AR Demo" width="380px">
 </p>
 
 ## Features
@@ -37,9 +37,13 @@ Want to share how you use BioARchitect on the move? Submissions are welcome and 
 1. Send your photo and caption via a Pull Request, an Issue, or directly via email to **carlastembio@gmail.com**.
 2. Once reviewed and approved, it will be added to the project.
 
-## Data sources
+## Data Sources
 
-Structures from [RCSB PDB](https://www.rcsb.org/), [AlphaFold DB](https://alphafold.ebi.ac.uk/) (CC BY 4.0) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+| Database | Description | License / Access |
+| :--- | :--- | :--- |
+| **[RCSB PDB](https://www.rcsb.org/)** | Experimental macromolecular structures | Public Domain / CC0 |
+| **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** | Predicted protein structure models by UniProt accession | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** | Small molecules by name or CID | Public Domain |
 
 ## 📄 License
 
