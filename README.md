@@ -3,7 +3,7 @@
 **Explore the architecture of life in augmented reality.**
 
 [![Demo visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2F%252FBioARchitect.json&query=count&label=Demo%20visits&color=blueviolet)](https://cpadillafranzotti.github.io/BioARchitect/)
-[![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect/)
+[![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect;)
 ![Version](https://img.shields.io/badge/version-2.1-0053d6)
 
 BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app installation needed.
@@ -32,9 +32,14 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 
 *Take 5 outside.* Science doesn't only happen behind a desk. Inspired by the culture of stepping away from the screen for some fresh air, this section invites you to explore **BioARchitect** outdoors during research stays, walks, and field trips around Hinxton, Cambridge, London, and beyond.
 
-### Contribute Your Snapshot
-Want to share how you use BioARchitect on the move? Submissions are welcome and subject to manual review:
-📸 Send your photo and caption via a Pull Request, an Issue, or directly via email to **carlastembio@gmail.com**.
+### Share Your Snapshot
+Want to submit a photo or get in touch? Use the direct form below to send your snapshot, caption, or feedback:
+
+<p align="left">
+  <a href="https://formspree.io/f/tu-codigo-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/SEND_PHOTO_OR_MESSAGE-0053d6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Send Photo or Message">
+  </a>
+</p>
 
 ## Data Sources
 
@@ -42,7 +47,7 @@ Want to share how you use BioARchitect on the move? Submissions are welcome and 
 | :--- | :--- | :--- |
 | **[RCSB PDB](https://www.rcsb.org/)** | Experimental macromolecular structures | Public Domain / CC0 |
 | **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** | Predicted protein structure models by UniProt accession | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** | Small molecules by name or CID | Public Domain |
+$ pubChem: **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** | Small molecules by name or CID | Public Domain |
 
 ## 📄 License
 
@@ -50,4 +55,4 @@ This project is distributed under the terms of the **Academic Evaluation License
 
 ## Author
 
-Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · Contact: [carlastembio@gmail.com](mailto:carlastembio@gmail.com) · © 2026
+Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · © 2026
