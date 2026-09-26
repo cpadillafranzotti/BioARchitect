@@ -34,8 +34,7 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 
 ### Contribute Your Snapshot
 Want to share how you use BioARchitect on the move? Submissions are welcome and subject to manual review:
-1. Send your photo and caption via a Pull Request, an Issue, or directly via email to **carlastembio@gmail.com**.
-2. Once reviewed and approved, it will be added to the project.
+📸 Send your photo and caption via a Pull Request, an Issue, or directly via email to **carlastembio@gmail.com**.
 
 ## Data Sources
 
