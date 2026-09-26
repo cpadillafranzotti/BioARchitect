@@ -16,6 +16,10 @@ BioARchitect is a web-based viewer that brings proteins, nucleic acids and small
 
 Open it on your phone and tap **View in AR** to see the structure in augmented reality.
 
+<p align="center">
+  <img src="bioarchitect-preview.gif" alt="BioARchitect AR Demo" width="600px">
+</p>
+
 ## Features
 
 - **Search three databases:** PDB (experimental structures), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
