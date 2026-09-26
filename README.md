@@ -28,6 +28,15 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 - **One-tap examples:** a protein, DNA and a lipid to start exploring right away.
 - **Augmented reality** on Android and iPhone, directly from the browser.
 
+## 🌿 BioARchitect on the Move
+
+*Take 5 outside.* Science doesn't only happen behind a desk. Inspired by the culture of stepping away from the screen for some fresh air, this section invites you to explore **BioARchitect** outdoors during research stays, walks, and field trips around Hinxton, Cambridge, London, and beyond.
+
+### Contribute Your Snapshot
+Want to share how you use BioARchitect on the move? Submissions are welcome and subject to manual review:
+1. Send your photo and caption via a Pull Request, an Issue, or directly via email to **carlastembio@gmail.com**.
+2. Once reviewed and approved, it will be added to the project.
+
 ## Data sources
 
 Structures from [RCSB PDB](https://www.rcsb.org/), [AlphaFold DB](https://alphafold.ebi.ac.uk/) (CC BY 4.0) and [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
@@ -38,4 +47,4 @@ This project is distributed under the terms of the **Academic Evaluation License
 
 ## Author
 
-Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · © 2026
+Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · Contact: [carlastembio@gmail.com](mailto:carlastembio@gmail.com) · © 2026
