@@ -3,20 +3,18 @@
 **Explore the architecture of life in augmented reality.**
 
 [![Demo visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2F%252FBioARchitect.json&query=count&label=Demo%20visits&color=blueviolet)](https://cpadillafranzotti.github.io/BioARchitect/)
-[![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect;)
+[![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect/)
 ![Version](https://img.shields.io/badge/version-2.1-0053d6)
 
 <table>
   <tr>
     <td width="55%" valign="middle">
       <p>BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app installation needed.</p>
-      
       <p>
         <a href="https://cpadillafranzotti.github.io/BioARchitect/" target="_blank">
           <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-0053d6?style=for-the-badge&logo=augmented-reality&logoColor=white" alt="Try Live Demo">
         </a>
       </p>
-
       <p>Open it on your phone and tap <b>View in AR</b> to see the structure in augmented reality.</p>
     </td>
     <td width="45%" align="center" valign="middle">
