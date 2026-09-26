@@ -43,11 +43,11 @@ Want to submit a photo or get in touch? Click below to send your snapshot and ca
 
 ## Data Sources
 
-| Database | Description | License / Access |
+| Integration | Source | Description & Access |
 | :--- | :--- | :--- |
-| **[RCSB PDB](https://www.rcsb.org/)** | Experimental macromolecular structures | Public Domain / CC0 |
-| **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** | Predicted protein structure models by UniProt accession | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** | Small molecules by name or CID | Public Domain |
+| `powered by` **RCSB PDB** | [rcsb.org](https://www.rcsb.org/) | Experimental macromolecular structures (Public Domain / CC0) |
+| `powered by` **AlphaFold DB** | [alphafold.ebi.ac.uk](https://alphafold.ebi.ac.uk/) | Predicted protein structure models by UniProt accession ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) |
+| `powered by` **PubChem** | [pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov/) | Small molecules by name or CID (Public Domain) |
 
 ## 📄 License
 
