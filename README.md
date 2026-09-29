@@ -4,6 +4,8 @@
 
 [![Demo visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2F%252FBioARchitect.json&query=count&label=Demo%20visits&color=blueviolet)](https://cpadillafranzotti.github.io/BioARchitect/)
 [![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect/)
+[![Android](https://img.shields.io/badge/Android-AR-3DDC84?logo=android&logoColor=white)](https://cpadillafranzotti.github.io/BioARchitect/)
+[![iOS](https://img.shields.io/badge/iOS-AR-000000?logo=apple&logoColor=white)](https://cpadillafranzotti.github.io/BioARchitect/)
 ![Version](https://img.shields.io/badge/version-2.1-0053d6)
 [![License: Academic Evaluation](https://img.shields.io/badge/license-Academic%20Evaluation-3d8fd6)](LICENCE)
 
