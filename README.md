@@ -5,12 +5,13 @@
 [![Demo visits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2F%252FBioARchitect.json&query=count&label=Demo%20visits&color=blueviolet)](https://cpadillafranzotti.github.io/BioARchitect/)
 [![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect/)
 ![Version](https://img.shields.io/badge/version-2.1-0053d6)
+[![License: Academic Evaluation – All rights reserved](https://img.shields.io/badge/license-Academic%20Evaluation%20%C2%B7%20All%20rights%20reserved-lightgrey)](LICENCE)
 
 BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app installation needed.
 
 <p align="left">
   <a href="https://cpadillafranzotti.github.io/BioARchitect/" target="_blank">
-    <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-0053d6?style=for-the-badge&logo=augmented-reality&logoColor=white" alt="Try Live Demo">
+    <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-0053d6?style=for-the-badge" alt="Try Live Demo">
   </a>
 </p>
 
@@ -23,9 +24,11 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 ## Features
 
 - **Search three databases:** PDB (experimental structures), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
-- **Display styles:** cartoon (helices, strands and loops) or tube for proteins and nucleic acids; ball-and-stick for small molecules.
-- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure and rainbow (N→C).
-- **One-tap examples:** a protein, DNA and a lipid to start exploring right away.
+- **Display styles:** cartoon, tube, space-filling spheres and molecular surface for proteins and nucleic acids; ball-and-stick for small molecules.
+- **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
+- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C) and the AR palette 🇦🇷.
+- **Snapshots:** pause the rotation, pose the molecule and download a PNG with a transparent background.
+- **One-tap examples:** hemoglobin, p53 (AlphaFold), DNA and cholesterol.
 - **Augmented reality** on Android and iPhone, directly from the browser.
 
 ## 🌿 BioARchitect on the Move
@@ -49,8 +52,8 @@ Want to submit a photo or get in touch? Click below to send your snapshot and ca
 
 ## 📄 License
 
-This project is distributed under the terms of the **Academic Evaluation License**. See the [LICENSE](LICENSE) file for more details.
+This project is distributed under the terms of the **Academic Evaluation License – All Rights Reserved**. See the [LICENCE](LICENCE) file for more details.
 
 ## Author
 
-Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · © 2026
+Created by [Carla Padilla
