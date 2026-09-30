@@ -70,11 +70,6 @@ Sharing it, citing it or sending feedback also helps a lot!
 - **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** — Predicted protein structure models by UniProt accession ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 - **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** — Small molecules by name or CID (Public Domain).
 
-## Built with
-
-[![model-viewer](https://img.shields.io/badge/built%20with-model--viewer-orange)](https://modelviewer.dev/)
-[![three.js](https://img.shields.io/badge/built%20with-three.js-orange)](https://threejs.org/)
-
 ## 📄 License
 
 This project is distributed under the terms of the **Academic Evaluation License – All Rights Reserved**. See the [LICENCE](LICENCE) file for more details.
