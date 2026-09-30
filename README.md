@@ -33,9 +33,9 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 - **One-tap examples:** hemoglobin, p53 (AlphaFold), DNA and cholesterol.
 - **Augmented reality** on Android and iPhone, directly from the browser.
 
-## 🌿 BioARchitect on the Move
+## 🌿 BioARchitect on the Move 🚶‍♀️
 
-*Take 5 outside.* Science doesn't only happen behind a desk. Inspired by the culture of stepping away from the screen for some fresh air, this section invites you to explore **BioARchitect** outdoors during research stays, walks, and field trips around Hinxton, Cambridge, London, and beyond.
+*Take 10 outside.* Science doesn't only happen behind a desk. Inspired by the culture of stepping away from the screen for some fresh air, this section invites you to explore **BioARchitect** outdoors during research stays, walks, and field trips around Hinxton, Cambridge, London, and beyond.
 
 ### Share Your Snapshot
 Want to submit a photo or get in touch? Click below to send your snapshot and caption directly:
@@ -58,4 +58,4 @@ This project is distributed under the terms of the **Academic Evaluation License
 
 ## Author
 
-Created by [Carla Padilla
+Created by [Carla Padilla Franzotti](https://cpadillafranzotti.github.io/) · © 2025–2026
