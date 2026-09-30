@@ -49,11 +49,31 @@ Want to submit a photo or get in touch? Click below to send your snapshot and ca
   </a>
 </p>
 
+## 💙 Support BioARchitect
+
+BioARchitect is an independent project. If you find it useful or enjoy it, you can support its development:
+
+<p align="left">
+  <a href="https://cafecito.app/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Cafecito-Invite_me_a_coffee-74acdf?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support on Cafecito">
+  </a>
+  <a href="https://buymeacoffee.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee">
+  </a>
+</p>
+
+Sharing it, citing it or sending feedback also helps a lot!
+
 ## Data Sources
 
 - **[RCSB PDB](https://www.rcsb.org/)** — Experimental macromolecular structures (Public Domain / CC0).
 - **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** — Predicted protein structure models by UniProt accession ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 - **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** — Small molecules by name or CID (Public Domain).
+
+## Built with
+
+[![model-viewer](https://img.shields.io/badge/built%20with-model--viewer-orange)](https://modelviewer.dev/)
+[![three.js](https://img.shields.io/badge/built%20with-three.js-orange)](https://threejs.org/)
 
 ## 📄 License
 
