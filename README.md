@@ -29,15 +29,18 @@ Open it on your phone and tap **View in AR** to see the structure in augmented r
 - **Display styles:** cartoon, tube, space-filling spheres and molecular surface for proteins and nucleic acids; ball-and-stick for small molecules.
 - **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
 - **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C) and the AR palette 🇦🇷.
-- **Snapshots:** pause the rotation, pose the molecule and download a PNG with a transparent background.
+- **Snapshots (3D view):** pause the rotation, pose the molecule and download a PNG with a transparent background. In AR, use your phone's screenshot instead.
 - **One-tap examples:** hemoglobin, p53 (AlphaFold), DNA and cholesterol.
-- **Augmented reality** on Android and iPhone, directly from the browser.
+- **Augmented reality** on compatible Android phones and iPhones, straight from the phone's browser, with no app to install. On a computer, you can explore the structures in 3D.
 
-## 🌿 BioARchitect on the Move 🚶‍♀️
+## 🌿 BioARchitect on the Move
 
-*Take 10 outside.* Science doesn't only happen behind a desk. Inspired by the culture of stepping away from the screen for some fresh air, this section invites you to explore **BioARchitect** outdoors during research stays, walks, and field trips around Hinxton, Cambridge, London, and beyond.
+*Take 10 outside.* Between experiments or between lines of code, here's a good excuse to go for a walk and get some fresh air. Where would you place a molecule? Drop a protein into your favourite spot and share your snapshot with us.
 
 ### Share Your Snapshot
+
+📸 **How to capture it:** while in AR, take a screenshot with your phone.
+
 Want to submit a photo or get in touch? Click below to send your snapshot and caption directly:
 
 <p align="left">
