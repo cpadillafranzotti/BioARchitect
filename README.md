@@ -54,7 +54,7 @@ Want to submit a photo or get in touch? Click below to send your snapshot and ca
 BioARchitect is an independent project. If you find it useful or enjoy it, you can support its development:
 
 <p align="left">
-  <a href="https://cafecito.app/TU_USUARIO" target="_blank">
+  <a href="https://cafecito.app/bioarchitect" target="_blank">
     <img src="https://img.shields.io/badge/Cafecito-Invite_me_a_coffee-74acdf?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support on Cafecito">
   </a>
   <a href="https://buymeacoffee.com/TU_USUARIO" target="_blank">
