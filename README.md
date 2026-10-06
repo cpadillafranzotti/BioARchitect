@@ -36,19 +36,23 @@ Each link opens a structure ready to explore:
 | [Hemoglobin](https://cpadillafranzotti.github.io/BioARchitect/?pdb=4HHB) | Four chains carrying four heme groups (tap one to see its name) |
 | [p53](https://cpadillafranzotti.github.io/BioARchitect/?alphafold=P04637) | AlphaFold confidence: ordered domains in blue, disordered regions in orange |
 | [Top7](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1QYS&style=surface) | The first designed protein with a fold not seen in nature |
+| [Hemoglobin surface by charge](https://cpadillafranzotti.github.io/BioARchitect/?pdb=4HHB&style=surface&color=charge) | Positive and negative patches on the protein surface |
 | [DNA](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1BNA&color=argentina) | The double helix in the AR palette 🇦🇷 |
 | [Caffeine](https://cpadillafranzotti.github.io/BioARchitect/?pubchem=caffeine) | A small molecule, atom by atom |
 
 ## Features
 
-- **Search four sources:** PDB (experimental structures), de novo designed proteins (search by keyword, e.g. *barrel*), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
+- **Search four sources:** PDB (experimental structures, including large mmCIF-only entries), de novo designed proteins (search by keyword, e.g. *barrel*), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
 - **Display styles:** cartoon, tube, space-filling spheres and molecular surface for proteins and nucleic acids; ball-and-stick for small molecules.
-- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C) and the AR palette 🇦🇷.
+- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C), hydrophobicity, charge, flexibility (B-factor) and the AR palette 🇦🇷.
 - **Tap to identify:** tap any part of the structure to see the residue, nucleotide, ligand or atom (e.g. *Histidine 87 · chain A*).
 - **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
 - **What you are looking at:** each structure shows its ID, whether it is natural, de novo, predicted or a small molecule, and its real size next to its size in AR (*≈ 6 nm · ×100 million in AR*). Tap **Info** for title, organism, method, resolution and links.
 - **Share:** send a link that opens the same structure, style and color. Handy for classes, talks and chats.
-- **Snapshots (3D view):** pause the rotation, pose the molecule and download a PNG with a transparent background. In AR, use your phone's screenshot.
+- **Save what you see:**
+  - **Image (PNG)** with a transparent background, for slides and posters. In AR, use your phone's screenshot.
+  - **3D model (.glb)** with its colors, ready to import into Blender or insert into PowerPoint.
+  - **3D print (.stl)** at 1 Å = 1 mm (hemoglobin ≈ 6.5 cm). Surface and Spheres print best.
 - **Augmented reality** on compatible Android phones and iPhones, straight from the browser, with on-screen tips to place, move and resize the model. On a computer, you can explore the structures in 3D.
 
 ## Requirements
