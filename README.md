@@ -6,10 +6,10 @@
 [![AR sessions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fbioarchitect.goatcounter.com%2Fcounter%2Far-launch.json&query=count&label=AR%20sessions&color=orange)](https://cpadillafranzotti.github.io/BioARchitect/)
 [![Android](https://img.shields.io/badge/Android-AR-3DDC84?logo=android&logoColor=white)](https://cpadillafranzotti.github.io/BioARchitect/)
 [![iOS](https://img.shields.io/badge/iOS-AR-000000?logo=apple&logoColor=white)](https://cpadillafranzotti.github.io/BioARchitect/)
-![Version](https://img.shields.io/badge/version-2.1-0053d6)
+![Version](https://img.shields.io/badge/version-2.2-0053d6)
 [![License: Academic Evaluation](https://img.shields.io/badge/license-Academic%20Evaluation-3d8fd6)](LICENCE)
 
-BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app installation needed.
+BioARchitect is a web-based viewer that brings proteins, nucleic acids and small molecules into your space. Search a structure, choose how to display it, and place it on your table with your phone's camera. No app to install.
 
 <p align="left">
   <a href="https://cpadillafranzotti.github.io/BioARchitect/" target="_blank">
@@ -17,21 +17,46 @@ BioARchitect is a web-based viewer that brings proteins, nucleic acids and small
   </a>
 </p>
 
-Open it on your phone and tap **View in AR** to see the structure in augmented reality.
-
 <p align="center">
   <img src="bioarchitect-preview.gif" alt="BioARchitect AR Demo" width="380px">
 </p>
 
+## Quick start
+
+1. Open the demo on your phone.
+2. Pick a database and type an ID or a name, or tap one of the examples.
+3. Tap **View in AR**, point your phone at the floor or a table, and move it slowly until the molecule appears.
+
+## Try these
+
+Each link opens a structure ready to explore:
+
+| Structure | What to look for |
+|---|---|
+| [Hemoglobin](https://cpadillafranzotti.github.io/BioARchitect/?pdb=4HHB) | Four chains carrying four heme groups (tap one to see its name) |
+| [p53](https://cpadillafranzotti.github.io/BioARchitect/?alphafold=P04637) | AlphaFold confidence: ordered domains in blue, disordered regions in orange |
+| [Top7](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1QYS&style=surface) | The first designed protein with a fold not seen in nature |
+| [DNA](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1BNA&color=argentina) | The double helix in the AR palette 🇦🇷 |
+| [Caffeine](https://cpadillafranzotti.github.io/BioARchitect/?pubchem=caffeine) | A small molecule, atom by atom |
+
 ## Features
 
-- **Search three databases:** PDB (experimental structures), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
+- **Search four sources:** PDB (experimental structures), de novo designed proteins (search by keyword, e.g. *barrel*), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
 - **Display styles:** cartoon, tube, space-filling spheres and molecular surface for proteins and nucleic acids; ball-and-stick for small molecules.
-- **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
 - **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C) and the AR palette 🇦🇷.
-- **Snapshots (3D view):** pause the rotation, pose the molecule and download a PNG with a transparent background. In AR, use your phone's screenshot instead.
-- **One-tap examples:** hemoglobin, p53 (AlphaFold), DNA and cholesterol.
-- **Augmented reality** on compatible Android phones and iPhones, straight from the phone's browser, with no app to install. On a computer, you can explore the structures in 3D.
+- **Tap to identify:** tap any part of the structure to see the residue, nucleotide, ligand or atom (e.g. *Histidine 87 · chain A*).
+- **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
+- **What you are looking at:** each structure shows its ID, whether it is natural, de novo, predicted or a small molecule, and its real size next to its size in AR (*≈ 6 nm · ×100 million in AR*). Tap **Info** for title, organism, method, resolution and links.
+- **Share:** send a link that opens the same structure, style and color. Handy for classes, talks and chats.
+- **Snapshots (3D view):** pause the rotation, pose the molecule and download a PNG with a transparent background. In AR, use your phone's screenshot.
+- **Augmented reality** on compatible Android phones and iPhones, straight from the browser, with on-screen tips to place, move and resize the model. On a computer, you can explore the structures in 3D.
+
+## Requirements
+
+- **Android:** Chrome on a phone with [Google Play Services for AR](https://developers.google.com/ar/devices).
+- **iPhone / iPad:** Safari.
+- **Social media apps** (Instagram, Facebook, TikTok…): their built-in browsers can't open AR. BioARchitect will offer to open the page in your browser.
+- **Computer:** any modern browser, in 3D only.
 
 ## 🌿 BioARchitect on the Move
 
@@ -55,7 +80,7 @@ BioARchitect is an independent project. If you find it useful or enjoy it, you c
 
 <p align="left">
   <a href="https://cafecito.app/bioarchitect" target="_blank">
-    <img src="https://img.shields.io/badge/Cafecito-Invite_me_a_coffee-74acdf?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support on Cafecito">
+    <img src="https://img.shields.io/badge/Cafecito-Buy_me_a_cafecito-74acdf?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Support on Cafecito">
   </a>
   <a href="https://buymeacoffee.com/bioarchitect" target="_blank">
     <img src="https://img.shields.io/badge/Buy_me_a_coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee">
@@ -64,11 +89,17 @@ BioARchitect is an independent project. If you find it useful or enjoy it, you c
 
 Sharing it, citing it or sending feedback also helps a lot!
 
+## How to cite
+
+If you use BioARchitect in a class, a talk or a publication, please cite:
+
+> Padilla Franzotti, C. (2026). *BioARchitect: a web-based augmented reality viewer for biomolecular structures.* https://cpadillafranzotti.github.io/BioARchitect/
+
 ## Data Sources
 
-- **[RCSB PDB](https://www.rcsb.org/)** — Experimental macromolecular structures (Public Domain / CC0).
-- **[AlphaFold DB](https://alphafold.ebi.ac.uk/)** — Predicted protein structure models by UniProt accession ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
-- **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)** — Small molecules by name or CID (Public Domain).
+- **[RCSB PDB](https://www.rcsb.org/)**: experimental macromolecular structures, de novo design search and ligand names (Public Domain / CC0).
+- **[AlphaFold DB](https://alphafold.ebi.ac.uk/)**: predicted protein structure models by UniProt accession ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
+- **[PubChem](https://pubchem.ncbi.nlm.nih.gov/)**: small molecules by name or CID (Public Domain).
 
 ## 📄 License
 
