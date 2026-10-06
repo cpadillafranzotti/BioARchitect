@@ -44,16 +44,34 @@ Each link opens a structure ready to explore:
 
 - **Search four sources:** PDB (experimental structures, including large mmCIF-only entries), de novo designed proteins (search by keyword, e.g. *barrel*), AlphaFold DB (predicted models by UniProt accession) and PubChem (small molecules by name or CID).
 - **Display styles:** cartoon, tube, space-filling spheres and molecular surface for proteins and nucleic acids; ball-and-stick for small molecules.
-- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C), hydrophobicity, charge, flexibility (B-factor) and the AR palette 🇦🇷.
-- **Tap to identify:** tap any part of the structure to see the residue, nucleotide, ligand or atom (e.g. *Histidine 87 · chain A*).
-- **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin.
+- **Color modes:** AlphaFold confidence (pLDDT), chain, secondary structure, rainbow (N→C), hydrophobicity, charge, flexibility (B-factor), the AR palette 🇦🇷 and Pride 🏳️‍🌈. See [About the color palettes](#about-the-color-palettes).
+- **Tap to identify:** tap any part of the structure to see the residue, nucleotide, ligand or atom (e.g. *Histidine 87 · chain A*). The selected residue lights up in magenta, also in AR.
+- **Ligands:** show or hide bound ligands, such as the heme groups of hemoglobin, and see their names, formulas and copies in **Info**.
 - **What you are looking at:** each structure shows its ID, whether it is natural, de novo, predicted or a small molecule, and its real size next to its size in AR (*≈ 6 nm · ×100 million in AR*). Tap **Info** for title, organism, method, resolution and links.
 - **Share:** send a link that opens the same structure, style and color. Handy for classes, talks and chats.
 - **Save what you see:**
-  - **Image (PNG)** with a transparent background, for slides and posters. In AR, use your phone's screenshot.
-  - **3D model (.glb)** with its colors, ready to import into Blender or insert into PowerPoint.
-  - **3D print (.stl)** at 1 Å = 1 mm (hemoglobin ≈ 6.5 cm). Surface and Spheres print best.
+  - **PNG:** image with a transparent background, for slides and posters. In AR, use your phone's screenshot.
+  - **SVG:** editable vector drawing of the same view (Illustrator, Inkscape, PowerPoint).
+  - **PDF:** one-page sheet with the view, its color legend, the entry details, ligands and links.
+  - **GLB:** 3D model with its colors, ready to import into Blender or insert into PowerPoint.
+  - **STL:** for 3D printing, at 1 Å = 1 mm (hemoglobin ≈ 6.5 cm). Surface and Spheres print best.
 - **Augmented reality** on compatible Android phones and iPhones, straight from the browser, with on-screen tips to place, move and resize the model. On a computer, you can explore the structures in 3D.
+
+## About the color palettes
+
+| Palette | What it shows | Source |
+|---|---|---|
+| Confidence (pLDDT) | How confident AlphaFold is about each residue (0–100) | AlphaFold DB model file |
+| Chain | Each polymer chain in a different color | Structure file |
+| Secondary structure | Helices, strands and coils | Structure file (HELIX/SHEET records), or assigned from Cα geometry when absent |
+| Rainbow (N→C) | Position along each chain, from N- to C-terminus | Structure file |
+| Hydrophobicity | Hydrophilic to hydrophobic residues | Kyte & Doolittle hydropathy scale (*J Mol Biol* 1982, 157:105–132) |
+| Charge | Side-chain charge at neutral pH: Asp/Glu negative, Lys/Arg positive, His shown apart, polar and nonpolar | Standard residue classification |
+| Flexibility (B-factor) | Rigid to mobile regions | B-factors deposited with each experimental structure, scaled within that structure (5th–95th percentile) |
+| AR palette 🇦🇷 | Helices celeste, strands Sun of May gold, coils white | Argentine flag |
+| Pride 🏳️‍🌈 | Six stripes of the pride flag across the structure | Pride flag |
+
+**Note on flexibility:** B-factors also depend on resolution, crystal packing and refinement, so colors compare regions *within* one structure, not between structures. They are only available for experimental structures; for AlphaFold models, use pLDDT.
 
 ## Requirements
 
@@ -93,11 +111,9 @@ BioARchitect is an independent project. If you find it useful or enjoy it, you c
 
 Sharing it, citing it or sending feedback also helps a lot!
 
-## How to cite
+## Using BioARchitect in a class or talk?
 
-If you use BioARchitect in a class, a talk or a publication, please cite:
-
-> Padilla Franzotti, C. (2026). *BioARchitect: a web-based augmented reality viewer for biomolecular structures.* https://cpadillafranzotti.github.io/BioARchitect/
+Go ahead! Please mention **BioARchitect by Carla Padilla Franzotti** and link to the [demo](https://cpadillafranzotti.github.io/BioARchitect/). I'd love to hear how you used it.
 
 ## Data Sources
 
