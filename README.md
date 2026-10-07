@@ -34,7 +34,7 @@ Each link opens a structure ready to explore:
 | Structure | What to look for |
 |---|---|
 | [Hemoglobin](https://cpadillafranzotti.github.io/BioARchitect/?pdb=4HHB) | Four chains carrying four heme groups (tap one to see its name) |
-| [p53](https://cpadillafranzotti.github.io/BioARchitect/?alphafold=P04637) | AlphaFold confidence: ordered domains in blue, disordered regions in orange |
+| [p53](https://cpadillafranzotti.github.io/BioARchitect/?alphafold=P04637&color=plddt) | AlphaFold confidence: ordered domains in blue, disordered regions in orange |
 | [Top7](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1QYS&style=surface) | The first designed protein with a fold not seen in nature |
 | [Hemoglobin surface by charge](https://cpadillafranzotti.github.io/BioARchitect/?pdb=4HHB&style=surface&color=charge) | Positive and negative patches on the protein surface |
 | [DNA](https://cpadillafranzotti.github.io/BioARchitect/?pdb=1BNA&color=flag&flag=AR) | The double helix in the colors of the Argentine flag 🇦🇷 |
@@ -59,8 +59,9 @@ Each link opens a structure ready to explore:
   - **GLB:** 3D model with its colors, ready to import into Blender or insert into PowerPoint.
   - **STL:** for 3D printing, at 1 Å = 1 mm (hemoglobin ≈ 6.5 cm). Surface and Spheres print best.
 - **Augmented reality** on compatible Android phones and iPhones, straight from the browser, with on-screen tips to place, move and resize the model. You can identify residues, read the sequence and change colors without leaving AR. On a computer, you can explore the structures in 3D.
+- **Change molecule without leaving AR** (Android): open **Display** to search or tap an example; the new structure appears in the same spot.
 - **Clean AR view:** one tap hides every label and button, leaving only the molecule in your space and a small BioARchitect watermark. Ideal for photos and screen recordings.
-- **English and Spanish:** switch with **EN | ES** at the top. BioARchitect opens in Spanish when your phone is set to Spanish.
+- **English and Spanish:** switch with **EN | ES** at the top. BioARchitect opens in English; it remembers your choice.
 - **Light and dark mode:** switch with the 🌙 / ☀️ button at the top left. BioARchitect follows your phone's setting until you choose, and remembers your choice.
 - **Embed it in your website:** see [Embed BioARchitect](#embed-bioarchitect-in-your-website).
 
