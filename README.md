@@ -84,7 +84,7 @@ Besides these scientific schemes, BioARchitect has a set of **fun color schemes*
 
 ## Methods and limitations
 
-BioARchitect is designed for exploring, teaching and communicating structures in augmented reality. For detailed structural analysis, use dedicated tools such as [Mol*](https://molstar.org/), [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) or [PyMOL](https://pymol.org/).
+BioARchitect is designed for exploring, teaching and communicating structures in augmented reality. It is not meant for detailed structural analysis, which needs dedicated molecular modeling software.
 
 BioARchitect reads the structure files and builds the 3D models itself, in the browser:
 
