@@ -61,6 +61,7 @@ Each link opens a structure ready to explore:
 - **Augmented reality** on compatible Android phones and iPhones, straight from the browser, with on-screen tips to place, move and resize the model. You can identify residues, read the sequence and change colors without leaving AR. On a computer, you can explore the structures in 3D.
 - **Clean AR view:** one tap hides every label and button, leaving only the molecule in your space and a small BioARchitect watermark. Ideal for photos and screen recordings.
 - **English and Spanish:** switch with **EN | ES** at the top. BioARchitect opens in Spanish when your phone is set to Spanish.
+- **Light and dark mode:** switch with the 🌙 / ☀️ button at the top left. BioARchitect follows your phone's setting until you choose, and remembers your choice.
 - **Embed it in your website:** see [Embed BioARchitect](#embed-bioarchitect-in-your-website).
 
 ## About the color palettes
@@ -76,7 +77,7 @@ Each link opens a structure ready to explore:
 | Flexibility (B-factor) | Rigid to mobile regions | B-factors deposited with each experimental structure, scaled within that structure (5th–95th percentile) |
 | Chain · colorblind-safe | Each chain in a color that stays distinguishable with color vision deficiencies | Okabe & Ito palette (2008) |
 
-Besides these scientific schemes, BioARchitect has a set of **fun color schemes** for outreach and play. They are for enjoying the structures, not for interpreting them.
+Besides these scientific schemes, BioARchitect has a set of **fun color schemes** for outreach and play. They are for enjoying the structures, not for interpreting them. Some come with a gentle animated scene behind the molecule; it can be turned off with ✨ Effects, and it is never included in saved images or 3D files.
 
 **Note on flexibility:** B-factors also depend on resolution, crystal packing and refinement, so colors compare regions *within* one structure, not between structures. They are only available for experimental structures; for AlphaFold models, use pLDDT.
 
@@ -153,6 +154,7 @@ You can show BioARchitect inside your own website, course page or blog with an `
 
 - **Choose what it shows** with the same options as a shared link: `pdb=`, `alphafold=` or `pubchem=`, plus `style=` and `color=`. The easiest way: open the structure in BioARchitect, set it up, tap **Share** and copy the link.
 - **Language:** add `&lang=es` for Spanish or `&lang=en` for English.
+- **Light or dark:** add `&theme=dark` or `&theme=light` to match your site. Without it, the viewer follows the visitor's system setting.
 - **Keep `allow="xr-spatial-tracking"`** so AR can start on Android. On iPhone, AR opens from the *Open in BioARchitect ↗* link.
 - Embedding the live demo in educational and non-commercial websites is welcome, with credit to **BioARchitect by Carla Padilla Franzotti**.
 
